@@ -78,7 +78,7 @@ dependencies {
 
   testImplementation("org.jetbrains.kotlin:kotlin-test-junit5:1.6.21")
   testImplementation("io.kotest:kotest-runner-junit5:5.3.0")
-  testRuntimeOnly("org.junit.platform:junit-platform-launcher:1.8.2")
+  testRuntimeOnly("org.junit.platform:junit-platform-launcher:1.9.1")
 }
 
 val dependencyVersions = listOf(
